@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e44ecd927d122fecbf5805cb977351cfbbaa62d19035f468eab992f46eace839"
+            "sha256": "6536da6907d926f47934a622b17cb1d0e82e63cf3a2f74f8dabf0c9c36edbfee"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -375,6 +375,13 @@
             "markers": "python_version >= '3.8'",
             "version": "==8.12.3"
         },
+        "ipython-genutils": {
+            "hashes": [
+                "sha256:72dd37233799e619666c9f639a9da83c34013a73e8bbc79a7a6348d93c61fab8",
+                "sha256:eb2e116e75ecef9d4d228fdc66af54269afa26ab4463042e33785b887c628ba8"
+            ],
+            "version": "==0.2.0"
+        },
         "ipywidgets": {
             "hashes": [
                 "sha256:08cb75c6e0a96836147cbfdc55580ae04d13e05d26ffbc377b4e1c68baa28b1f",
@@ -687,6 +694,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==1.10"
+        },
+        "nbformat": {
+            "hashes": [
+                "sha256:1b4e0f21a3278483be384e77ae310d194bc73819fa8d9645f6c08482477359b7",
+                "sha256:389a5b630a30539074f238a48fb9864592f63d611baccfa2ffaf14ffe239de06"
+            ],
+            "index": "pypi",
+            "version": "==4.2.0"
         },
         "nest-asyncio": {
             "hashes": [
